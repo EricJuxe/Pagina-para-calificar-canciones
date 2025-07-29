@@ -39,5 +39,5 @@ Integrantes: Juárez Fernández Eric Aarón, Zenón Regalado Vicente de Jesús
 
 
 
-
+#Proceso principal (comentar opiniones sobre canciones y calificarlas)
 
