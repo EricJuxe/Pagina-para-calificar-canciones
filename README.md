@@ -10,4 +10,7 @@ Integrantes: Juárez Fernández Eric Aarón, Zenón Regalado Vicente de Jesús
 -Sistema web de gestión de contenido con funcionalidades sociales
 
 #Funciones clave del sistema 
-* proceso de logueo
+* Proceso de logueo
+  <img width="1919" height="889" alt="image" src="https://github.com/user-attachments/assets/4039326b-ac40-4910-8a11-46c9f9aa27c6" />
+
+  
